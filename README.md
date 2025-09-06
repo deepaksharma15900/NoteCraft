@@ -39,14 +39,13 @@ src/
 │── App.jsx # Main app component
 │── main.jsx # Entry point
 
-
 ---
 
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the repo
 ```bash
-git clone https://github.com/your-username/note-craft.git
+git clone https://github.com/deepaksharma15900/NoteCraft.git
 cd note-craft
 
 2️⃣ Install dependencies
