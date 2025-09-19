@@ -3,8 +3,6 @@
 A simple and elegant **Note Taking App** built with **React, Redux Toolkit, and TailwindCSS**.  
 It allows you to **create, edit, update, delete, search, copy, and share** notes (pastes) with a clean and responsive UI.
 
-This project is inspired by [this YouTube tutorial](https://www.youtube.com/watch?v=SPkDA2lWtWE).
-
 ---
 
 ## ✨ Features
